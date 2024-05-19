@@ -1,0 +1,27 @@
+{
+  
+  "helloWorld": "مرحبا بالعالم!",
+
+  "helloPlaceholders": "مرحبا {name}!",
+
+  "no_network": "لا يوجد اتصال بالإنترنت",
+  "timeout": "عذرا، انتهى وقت الاتصال. حاول مرة أخرى.",
+  "unauthorized": "خطأ: مستخدم غير مسجل الدخول",
+  "default_error": "حدث خطأ",
+  "session_expired": "خطأ: انتهت صلاحية الجلسة",
+  "error_title": "خطأ",
+  "hello_again":"مرحباً مجدداً",
+  "mail":"البريد الإلكتروني",
+  "password":"كلمة المرور",
+  "google_account":"حساب جوجل",
+  "google_account":"ليس لديك حساب؟",
+  "create_account":"أنشيء حساب الآن",
+  "login":"دخول",
+  "forget_password":"نسيت كلمة السر",
+    "first_name":"الإسم الأول",
+    "mid_name":"الإسم الأوسط",
+    "last_name":"الإسم الأخير",
+    "confirm_password":"تأكيد كلمة المرور",
+    "register":"تسجيل",
+    "have_account":"لديك حساب بالفعل؟"
+}

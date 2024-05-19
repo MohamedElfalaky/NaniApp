@@ -1,0 +1,39 @@
+{
+   "helloWorld": "Hello World!",
+  "@helloWorld": {
+    "description": "Newborn programmer greeting"
+  },
+
+  "helloPlaceholders": "Hello {name}!",
+  "@helloPlaceholders": {
+    "description": "Greeting with placeholders example",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+
+  "no_network": "You're offline",
+  "timeout": "Sorry, the network request timed out. Try again.",
+  "unauthorized": "Error: Unauthorized user",
+  "default_error": "Ops. Something went wrong.",
+  "session_expired": "Error: Session expired",
+  "error_title": "Error",
+  "hello_again":"hello again",
+    "mail":"email",
+    "password":"password",
+    "google_account":"google account",
+    "no_account":"you dont have account?",
+    "create_account":"create account now",
+    "login":"login",
+    "forget_password":"forget password",
+    "first_name":"first name",
+    "mid_name":"middle name",
+    "last_name":"last name",
+    "confirm_password":"confirm password",
+    "register":"register",
+    "have_account":"you already have an account?"
+
+
+}
